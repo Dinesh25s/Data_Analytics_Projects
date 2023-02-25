@@ -1,3 +1,5 @@
+-- Covid-19 Data Analysis Using Sql --
+
 SELECT *
 FROM Covid_19_Deaths_dataset
 
