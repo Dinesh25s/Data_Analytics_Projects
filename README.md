@@ -4,6 +4,8 @@ With the Help of Covid -19 Data_set Which is Provided by the ourworldindata.org 
 
 I have Done Exploratory Data Analysis using the Covid-19 Dataset with the Help of Sql Server 2022, With the Help of dataset i have clean the unwanted data And Organize the Data in Proper form to Do Data Analysis to find the Insights.
 
+# Some of the Most Importent Insights Which I Have Find From the  Covid-19 Dataset
+
 1.How much People Deaths Occure during the time Period of jan 2020 - feb 2023.
 
 2.Which is the Highest Time Peroid Of Deaths occures in the covid-19.
