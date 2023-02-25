@@ -3,6 +3,7 @@ The Project is Mainly on The Proper Understanding of Covid-19 Deaths & Vaccinati
 With the Help of Covid -19 Data_set Which is Provided by the ourworldindata.org Which give the Data of Total Covid Deaths  Occers from Jan 2020 to Feb 2023 Whole Over The WorldWide.
 
 I have Done Exploratory Data Analysis using the Covid-19 Dataset with the Help of Sql Server 2022, With the Help of dataset i have clean the unwanted data And Organize the Data in Proper form to Do Data Analysis to find the Insights.
+
 1.How much People Deaths Occure during the time Period of jan 2020 - feb 2023
 2.Which is the Highest Time Peroid Of Deaths occures in the covid-19
 3.Which Continent Have  the Higest Deaths during the covid -19
