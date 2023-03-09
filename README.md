@@ -1,4 +1,4 @@
-# Covid-19_Data_Analysis_Projects
+# Covid-19_Data_Analysis_Project
 The Project is Mainly on The Proper Understanding of Covid-19 Deaths & Vaccination taken by the People
 With the Help of Covid -19 Data_set Which is Provided by the ourworldindata.org Which give the Data of Total Covid Deaths  Occers from Jan 2020 to Feb 2023 Whole Over The WorldWide.
 
